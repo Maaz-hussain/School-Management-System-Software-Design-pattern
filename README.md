@@ -1,8 +1,8 @@
 # School-Management-System-javafx
 
 <b>Basic Application with Code using Software Design pattern<b> 
-in this Application Following patterns are used
-1: Chain of Responsibility Pattern
-2: Singleton Pattern
-3: Factory Pattern
-4: Mediator Pattern
+in this Application Following patterns are used<br>
+1: Chain of Responsibility Pattern<br>
+2: Singleton Pattern<br>
+3: Factory Pattern<br>
+4: Mediator Pattern<br>
